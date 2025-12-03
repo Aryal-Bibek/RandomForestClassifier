@@ -43,7 +43,7 @@ if __name__ == "__main__":
     #number of process, if (p>cpu_cores || p == -1) then max cores, else p
     p= 10
     
-    x,x_test,y,y_test = preprocess(data,training_size=0.7,test_size=0.3, n_features=100,resample=True,state=r_state)
+    x,x_test,y,y_test = preprocess(data,training_size=0.7,test_size=0.3, n_features=25,resample=True,state=r_state)
     
     #our implementation, parameter verbose prints the fitting time, and the random state of each tree if true 
     random_forest = RandomForest(processes=p,number_of_trees=trees,random_state=r_state,verbose=True)
