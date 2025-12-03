@@ -1,0 +1,10 @@
+Original dataset shape Counter({0: 125931, 1: 14069})
+Resampled dataset shape Counter({0: 125931, 1: 125931})
+Total fitting time for Random Forest (library) with 1000 trees: 21 minutes, 58.66 seconds 
+
+Random Forest (library) with 1000 trees: has accuracy of  88.72 %, precision of 30.76 %, recall of 9.79 % and f1 score of 14.85 %
+
+[[52643  1328]
+ [ 5439   590]] 
+
+Training Data Size: 251862 , Training Data Columns: 100 , with size 194.08 MB

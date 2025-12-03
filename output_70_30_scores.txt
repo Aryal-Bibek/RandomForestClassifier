@@ -1,0 +1,125 @@
+Original dataset shape Counter({0: 125931, 1: 14069})
+Resampled dataset shape Counter({0: 125931, 1: 125931})
+seed: 27897  finished building tree  10  it took  371.79 s.
+seed: 74822  finished building tree  13  it took  376.76 s.
+seed: 30389  finished building tree  19  it took  377.25 s.
+seed: 6405  finished building tree  22  it took  378.35 s.
+seed: 2372  finished building tree  16  it took  382.33 s.
+seed: 42609  finished building tree  25  it took  396.39 s.
+seed: 40315  finished building tree  28  it took  399.71 s.
+seed: 99085  finished building tree  7  it took  433.61 s.
+seed: 60503  finished building tree  1  it took  439.64 s.
+seed: 61411  finished building tree  4  it took  441.18 s.
+seed: 14156  finished building tree  11  it took  376.04 s.
+seed: 96732  finished building tree  14  it took  378.22 s.
+seed: 26547  finished building tree  17  it took  376.79 s.
+seed: 99089  finished building tree  23  it took  380.89 s.
+seed: 33506  finished building tree  5  it took  334.65 s.
+seed: 49057  finished building tree  29  it took  390.52 s.
+seed: 58744  finished building tree  26  it took  405.89 s.
+seed: 69038  finished building tree  2  it took  365.49 s.
+seed: 52191  finished building tree  20  it took  468.17 s.
+seed: 91432  finished building tree  8  it took  422.26 s.
+seed: 44476  finished building tree  12  it took  365.58 s.
+seed: 43300  finished building tree  18  it took  359.85 s.
+seed: 11970  finished building tree  15  it took  367.51 s.
+seed: 9071  finished building tree  24  it took  365.98 s.
+seed: 81737  finished building tree  27  it took  334.98 s.
+seed: 75798  finished building tree  3  it took  342.96 s.
+seed: 83296  finished building tree  6  it took  392.89 s.
+seed: 17533  finished building tree  30  it took  377.42 s.
+seed: 49278  finished building tree  9  it took  323.87 s.
+seed: 38648  finished building tree  21  it took  385.85 s.
+seed: 48973  finished building tree  37  it took  325.61 s.
+seed: 48510  finished building tree  34  it took  339.97 s.
+seed: 19130  finished building tree  46  it took  311.38 s.
+seed: 63912  finished building tree  31  it took  351.51 s.
+seed: 94552  finished building tree  49  it took  311.74 s.
+seed: 72408  finished building tree  55  it took  313.05 s.
+seed: 10496  finished building tree  43  it took  360.26 s.
+seed: 58233  finished building tree  40  it took  376.52 s.
+seed: 84778  finished building tree  58  it took  299.67 s.
+seed: 62577  finished building tree  52  it took  425.97 s.
+seed: 47977  finished building tree  38  it took  372.6 s.
+seed: 61286  finished building tree  47  it took  378.43 s.
+seed: 23931  finished building tree  41  it took  341.29 s.
+seed: 15291  finished building tree  32  it took  384.3 s.
+seed: 51640  finished building tree  56  it took  381.22 s.
+seed: 70117  finished building tree  35  it took  418.68 s.
+seed: 23901  finished building tree  50  it took  407.33 s.
+seed: 79451  finished building tree  44  it took  419.39 s.
+seed: 86811  finished building tree  53  it took  340.29 s.
+seed: 75193  finished building tree  59  it took  417.8 s.
+seed: 43998  finished building tree  39  it took  365.4 s.
+seed: 25030  finished building tree  33  it took  362.31 s.
+seed: 68846  finished building tree  42  it took  367.24 s.
+seed: 65135  finished building tree  48  it took  382.59 s.
+seed: 995  finished building tree  45  it took  312.56 s.
+seed: 23102  finished building tree  57  it took  359.23 s.
+seed: 78618  finished building tree  51  it took  360.87 s.
+seed: 71124  finished building tree  60  it took  326.48 s.
+seed: 59057  finished building tree  54  it took  344.02 s.
+seed: 21263  finished building tree  36  it took  436.48 s.
+seed: 59299  finished building tree  61  it took  338.31 s.
+seed: 69009  finished building tree  64  it took  348.58 s.
+seed: 84754  finished building tree  67  it took  371.55 s.
+seed: 14246  finished building tree  79  it took  337.17 s.
+seed: 79004  finished building tree  70  it took  379.5 s.
+seed: 45324  finished building tree  73  it took  374.15 s.
+seed: 46858  finished building tree  76  it took  383.08 s.
+seed: 73037  finished building tree  82  it took  351.06 s.
+seed: 43170  finished building tree  88  it took  382.31 s.
+seed: 60833  finished building tree  85  it took  415.18 s.
+seed: 98842  finished building tree  62  it took  338.78 s.
+seed: 96469  finished building tree  65  it took  362.65 s.
+seed: 88773  finished building tree  68  it took  356.69 s.
+seed: 34906  finished building tree  74  it took  355.49 s.
+seed: 7953  finished building tree  71  it took  364.16 s.
+seed: 45640  finished building tree  80  it took  376.96 s.
+seed: 33937  finished building tree  83  it took  377.06 s.
+seed: 92400  finished building tree  77  it took  397.21 s.
+seed: 24028  finished building tree  86  it took  350.36 s.
+seed: 91562  finished building tree  89  it took  377.78 s.
+seed: 36091  finished building tree  63  it took  319.49 s.
+seed: 36318  finished building tree  66  it took  320.04 s.
+seed: 79901  finished building tree  69  it took  359.79 s.
+seed: 44312  finished building tree  75  it took  362.4 s.
+seed: 92869  finished building tree  81  it took  398.27 s.
+seed: 62193  finished building tree  72  it took  404.56 s.
+seed: 79606  finished building tree  84  it took  378.93 s.
+seed: 7366  finished building tree  78  it took  381.66 s.
+seed: 70267  finished building tree  87  it took  346.42 s.
+seed: 54981  finished building tree  90  it took  334.91 s.
+seed: 5942  finished building tree  91  it took  247.75 s.
+seed: 35297  finished building tree  94  it took  196.85 s.
+seed: 3940  finished building tree  97  it took  169.49 s.
+seed: 22863  finished building tree  100  it took  162.16 s.
+seed: 75810  finished building tree  92  it took  130.34 s.
+seed: 2957  finished building tree  95  it took  124.06 s.
+seed: 3843  finished building tree  98  it took  120.96 s.
+seed: 47536  finished building tree  93  it took  113.48 s.
+seed: 4813  finished building tree  96  it took  111.69 s.
+seed: 3290  finished building tree  99  it took  97.38 s.
+
+Total fitting time for Random Forest (our) with 100 trees 61 minutes, 38.89 seconds 
+
+Random Forest (our) with 100 trees has accuracy of  84.36 %, precision of 23.81 %, recall of 25.28 % and f1 score of 24.52 %
+[[49094  4877]
+ [ 4505  1524]]
+
+Total fitting time for Random Forest (library) with 100 trees: 0 minutes, 36.8 seconds 
+Random Forest (library) with 100 trees: has accuracy of  84.99 %, precision of 23.38 %, recall of 21.66 % and f1 score of 22.49 %
+[[49690  4281]
+ [ 4723  1306]]
+
+Total fitting time for MLP Neural Network Classifier 8 minutes, 15.12 seconds 
+MLP Neural Network Classifier has accuracy of  70.89 %, precision of 16.08 %, recall of 44.98 % and f1 score of 23.7 %
+[[39822 14149]
+ [ 3317  2712]]
+
+Total fitting time for XGBoost Classifier 0 minutes, 0.54 seconds 
+XGBoost Classifier has accuracy of  68.76 %, precision of 17.03 %, recall of 54.45 % and f1 score of 25.94 %
+[[37971 16000]
+ [ 2746  3283]]
+
+Training Data Size: 251862 , Training Data Columns: 25 , with size 49.96 MB
