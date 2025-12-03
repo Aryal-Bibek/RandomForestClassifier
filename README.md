@@ -1,5 +1,7 @@
 Update File path in main.py to the path of the data file
-data can be found on Kaggle: https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data
+
+Data can be found on Kaggle: https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data
+
 DATASET IS TOO BIG TO BE INCLUDED HERE!
 
 To use our RandomForestClassifier model, in main.py declare declare a RandomForest object with the following hyper parameter: 
